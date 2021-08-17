@@ -208,7 +208,7 @@ In conclusion, the most effective, highest and efficient performing architecture
 
 
 User Guide 
- 
+ ![image](https://user-images.githubusercontent.com/73975745/129800548-ed88dcc6-b502-445e-9b75-450ff6b908a2.png)
 
 Read file: Read the respective text file from the directory folder. In this case, the respective text file is complete_data_set.txt. The count of each letter in the alphabet is then displayed in the results text box.
 
